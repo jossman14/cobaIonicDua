@@ -49,14 +49,6 @@ module.exports = [
         "clobbers": [
             "Ionic.WebView"
         ]
-    },
-    {
-        "file": "plugins/com.moust.cordova.videoplayer/www/videoplayer.js",
-        "id": "com.moust.cordova.videoplayer.VideoPlayer",
-        "pluginId": "com.moust.cordova.videoplayer",
-        "clobbers": [
-            "VideoPlayer"
-        ]
     }
 ];
 module.exports.metadata = 
@@ -67,8 +59,7 @@ module.exports.metadata =
     "cordova-plugin-device": "2.0.2",
     "cordova-plugin-splashscreen": "5.0.2",
     "cordova-plugin-ionic-webview": "4.1.3",
-    "cordova-plugin-ionic-keyboard": "2.2.0",
-    "com.moust.cordova.videoplayer": "1.0.1"
+    "cordova-plugin-ionic-keyboard": "2.2.0"
 }
 // BOTTOM OF METADATA
 });

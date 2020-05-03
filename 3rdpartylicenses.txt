@@ -47,9 +47,6 @@ MIT
 @ionic-native/status-bar
 MIT
 
-@ionic-native/video-player
-MIT
-
 @ionic/angular
 MIT
 
